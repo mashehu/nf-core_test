@@ -1,1 +1,17 @@
+
 image: mashehu/gitpod
+
+vscode:
+  extensions:
+    - codezombiech.gitignore
+    # - cssho.vscode-svgviewer
+    - davidanson.vscode-markdownlint
+    - eamodio.gitlens 
+    - EditorConfig.EditorConfig
+    - Gruntfuggly.todo-tree
+    - mechatroner.rainbow-csv
+    # - nextflow.nextflow
+    - oderwat.indent-rainbow
+    - redhat.vscode-yaml
+    - streetsidesoftware.code-spell-checker
+
